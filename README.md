@@ -1,2 +1,7 @@
-# superidolenthusiasts
-Period 3 CSP Daniel, Tigran, Matthew, Chris
+# Team Name: The Super Idol Enthusiasts
+
+# Objective
+
+# Contributers Table
+
+# Timeboxes
