@@ -5,8 +5,8 @@
 # Contributers Table
 | Name | Github Profile | Issues | Scrum Board | Commit History | Pair Share | Role |
 | - | - | - | - | - | - | - |
-| Daniel Levy | @danaylevy2004 | Insert Issues | Insert Scrum Board | Commit History | Insert Pair Share | Scrum Master/Github Admin |
-| Tigran Arakelov | @Tigran7 | Insert Issues | Insert Scrum Board | Commit History | Insert Pair Share | Primary Manager |
+| Daniel Levy | @danaylevy2004 | Insert Issues | Insert Scrum Board | Commit History | [Pair Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Scrum Master/Github Admin |
+| Tigran Arakelov | @Tigran7 | Insert Issues | Insert Scrum Board | Commit History | [Pair Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Primary Manager |
 | Matthew Cao-Manaka | @Pqhantom | Insert Issues | Insert Scrum Board | Commit History | Insert Pair Share | Deployment Manager
 | Chris Hom | @Chom642 | Insert Issues | Insert Scrum Board | Commit History | Insert Pair Share | Technical Officer |
 # Timeboxes
