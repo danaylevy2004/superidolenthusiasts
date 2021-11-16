@@ -1,7 +1,7 @@
 # Team Name: The Super Idol Enthusiasts
 
 # Objective
-Named after the song You Who Love 105 by Ai Re, a singer from Xinjiang, our goal is to display the pop culture environment, such as music and art, as well as other cultural elements, including food, standing traditions, and norms/values of East Asian countries, such as China, Taiwan, and Hong Kong, in a humorous but informative manner. 
+Named after the song You Who Love 105 by Ai Re, a singer from Xinjiang, our goal is to display the pop culture environment, such as music and art, as well as other cultural elements, including food, standing traditions, and norms/values of East Asian countries, such as China, Taiwan, Korea, and Hong Kong, in a humorous but informative manner. 
 
 # Contributers Table
 | Name | Github Profile | Issues | Scrum Board | Commit History | Pair Share | Role |
