@@ -1,7 +1,7 @@
 # Team Name: The Super Idol Enthusiasts
 
 # Objective
-Named after the song You Who Love at 105°C by Ai Re, a singer from Xinjiang, our goal is to display the pop culture environment, such as music and art, food, standing traditions, and norms/values of Sino-Tibetan regions (China, Taiwan, Hong Kong, etc.)  in a humorous but informative manner. 
+Named after the song You Who Love at 105°C by Ai Re, a singer from Xinjiang, our goal is to display the pop culture environment, such as music and art, food, standing traditions, and norms/values of Sino-Tibetan regions (China, Taiwan, Hong Kong, Himalayas, etc.)  in a humorous but informative manner. 
 
 # Contributers Table
 | Name | Github Profile | Issues | Scrum Board | Commit History | Pair Share | Role |
@@ -11,4 +11,4 @@ Named after the song You Who Love at 105°C by Ai Re, a singer from Xinjiang, ou
 | Matthew Cao-Manaka | @Pqhantom | Insert Issues | Insert Scrum Board | Commit History | Insert Pair Share | Primary Designer |
 | Chris Hom | @Chom642 | Insert Issues | Insert Scrum Board | Commit History | Insert Pair Share | Technical Officer |
 # Timeboxes
-| Name | Role | Wor
+
