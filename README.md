@@ -1,7 +1,7 @@
 # Team Name: The Super Idol Enthusiasts
 
 # Objective
-Named after the song You Who Love at 105°C by Ai Re, a singer from Xinjiang, our goal is to display the rich pop culture environment, such as music and art, food, standing traditions, and norms/values of Sino-Tibetan regions (China, Taiwan, Hong Kong, Himalayas, etc.)  in a humorous but informative manner. 
+We believe that the college board website is too bland and uninteractive so we will make our own website to teach you about the collegeboard topics that you will need you will need to know in order to pass the test. 
 
 # Contributers Table
 | Name | Github Profile | Issues | Scrum Board | Commit History | Pair Share | Role |
