@@ -1,7 +1,7 @@
 # Team Name: The Super Idol Enthusiasts
 
 # Objective
-We believe that the college board website is too bland and uninteractive so we will make our own website to teach you about the collegeboard topics that you will need you will need to know in order to pass the test. 
+We believe that the college board website is too bland and uninteractive so we will make our own website to teach you about the collegeboard topics that you will need you will need to know in order to pass the test./. 
 
 # Contributers Table
 | Name | Github Profile | Issues | Scrum Board | Commit History | Pair Share | Role |
