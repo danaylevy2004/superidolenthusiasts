@@ -1,17 +1,111 @@
 <!-- Navigation Bar from bootstrap
 This HTML is setup as a fragment allowing it to be "included" by other HTML files via Jinja2
 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    <style>
+        a {
+            float: left;
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 8px 12px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        a.active2 {
+            background-color: #2196F3;
+            color: white;
+        }
+
+        .shopping-container button {
+            float: right;
+            padding: 5.2px 5px;
+            background: #ddd;
+            margin-top: 8px;
+            margin-right: -335px;
+            font-size: 17px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .shopping-container button:hover {
+            background: #ccc;
+        }
+
+        .fa{
+            font-size: 1.5em;
+            letter-spacing: 0em;
+            transition: all .2s;
+            color: black;
+        }
+
+    </style>
+</head>
+
+
+<body>
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="https://csp.nighthawkcodingsociety.com/">{{name}}</a>
+    <a class="navbar-brand" href="https://csp.nighthawkcodingsociety.com/">{{basename}}</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-link" href={{ url_for('index') }}>Portfolio</a>
-            <a class="nav-link" href={{ url_for('kangaroos') }}>Kangaroos</a>
-            <a class="nav-link" href={{ url_for('walruses') }}>Walruses</a>
-            <a class="nav-link" href={{ url_for('hawkers') }}>Hawkers</a>
+            <!-- url_for is a Jinja2 pre-processor that finds route from function name (def) -->
+            <a class="nav-link" href= {{ url_for('index') }}> <img src="/static/assets/a1gaing.png" width = "30" height = "30" style = "position:relative; left:-50px"></a>
+            <a class="nav-link" href='/PCs/' style = "position:relative; left:-50px">PC</a>
+            <a class="nav-link" href='/Console/' style = "position:relative; left:-50px">Console</a>
+            <a class="nav-link" href='/Mobile/' style = "position:relative; left:-50px">Mobile</a>
+            <a class="active2" href='/Register/' style = "position:relative; left: 1080px;">Register</a>
+            <div class="shopping-container">
+                <button onclick="window.location.href='/shoppingcart/'" type="submit" style="position:relative; left:800px; top:-2px;"><i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
+            </div>
+
+            <!-- stub is shown using the name of the route -->
+
+            <li class="nav-item dropdown" style = "position:relative; left:-140px">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">About Us</a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <a class="dropdown-item" href="/danielgreet/">About Daniel</a>
+                    <a class="dropdown-item" href="/dylangreet/">About Dylan</a>
+                    <a class="dropdown-item" href="/karthikgreet/">About Karthik</a>
+                    <a class="dropdown-item" href="/williamgreet/">About William</a>
+                    <a class="dropdown-item" href="/rgb/">About Us -- RGB</a>
+                </div>
+            </li>
+
+            <li class="nav-item dropdown" style="position:relative; left:-140px;">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">
+                    Mini-Labs
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <a class="nav-link" href="/Video Journals/">Video Journals</a>
+                    <a class="nav-link" href="/binary/">Binary</a>
+                    <a class="nav-link" href="/howitsmade/">How It's Made</a>
+                    <a class="nav-link" href="/LogicGateLab/">Logic Gate Lab</a>
+                    <a class="nav-link" href="/binary RGB 2/">Color Codes Lab</a>
+                    <a class="nav-link" href="/Unsigned Addition Binary/">Unsigned Addition Binary Lab</a>
+                    <a class="nav-link" href="/Signed Addition/">Signed Addition Binary Lab</a>
+
+                </div>
+
+            <li class="nav-item dropdown" style="position:relative; left:-140px;">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">
+                    APIs
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <a class="nav-link" href="/Video Games Database API/">Currency Exchange Rates</a>
+                    <a class="nav-link" href="/random stuff generator/">Brian Pain Jokes</a>
+                    <a class="nav-link" href="/Chuck Jokes/">Chuck Norris Jokes</a>
+                    <a class="nav-link" href="/covidstats/">COVID-19 Stats</a>
+                    <a class="nav-link" href="/Insipirational Quotes/">Inspirational Quotes API</a>
+                </div>
         </div>
+    </div>
     </div>
 </nav>
