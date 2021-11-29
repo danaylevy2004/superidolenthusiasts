@@ -10,6 +10,6 @@ We believe that the college board website is too bland and uninteractive so we w
 | Derek Bokelman | @derekbokelman |  [Issues](https://github.com/danaylevy2004/superidolenthusiasts/issues?q=assignee%3Aderekbokelman+is%3Aopen+) | Insert Scrum Board | Commit History | [Triple Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Github Admin
 | Tigran Arakelov | @Tigran7 | [Issues](https://github.com/danaylevy2004/superidolenthusiasts/issues?q=assignee%3ATigran7+is%3Aopen)| Insert Scrum Board | Commit History | [Triple Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Deployment Manager |
 | Matthew Cao-Manaka | @Pqhantom | [Issues](https://github.com/danaylevy2004/superidolenthusiasts/issues?q=assignee%3APqhantom+is%3Aopen+) | Insert Scrum Board | Commit History | [Pair Share](https://docs.google.com/document/d/1b9SzFx7g9hf_kJIfIe7iW0cuRWeknSvzfgSPGQGoQYA/edit?usp=sharing) | Primary Designer |
-| Chris Hom | @Chom642 | Insert Issues | Insert Scrum Board | Commit History | [Pair Share](https://docs.google.com/document/d/1b9SzFx7g9hf_kJIfIe7iW0cuRWeknSvzfgSPGQGoQYA/edit?usp=sharing) | Technical Officer |
+| Chris Hom | @Chom642 | [Issues](https://github.com/danaylevy2004/superidolenthusiasts/issues?q=assignee%3AChom642+is%3Aopen+) | Insert Scrum Board | Commit History | [Pair Share](https://docs.google.com/document/d/1b9SzFx7g9hf_kJIfIe7iW0cuRWeknSvzfgSPGQGoQYA/edit?usp=sharing) | Technical Officer |
 # Timeboxes
 
